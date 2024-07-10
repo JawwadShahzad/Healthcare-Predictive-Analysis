@@ -1,7 +1,3 @@
-Sure! Below is a sample README file for your healthcare predictive analytics project.
-
----
-
 # Healthcare Predictive Analytics
 
 This project demonstrates how to build a healthcare predictive analytics model to predict heart disease using the Heart Disease dataset from the UCI Machine Learning Repository. The steps include data loading, preprocessing, model building, evaluation, and saving the model.
@@ -76,6 +72,3 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 ## License
 This project is licensed under the MIT License.
 
----
-
-Feel free to customize the README file as needed. Let me know if you need any additional information or modifications!
