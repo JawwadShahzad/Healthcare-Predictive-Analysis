@@ -81,3 +81,5 @@ We will save the trained model using joblib.
 
 # Save the model
 joblib.dump(model, 'heart_disease_model.joblib')
+from google.colab import files
+files.download('heart_disease_model.joblib')
